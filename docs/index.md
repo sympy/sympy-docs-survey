@@ -8,6 +8,9 @@ SymPy ran a user survey about its documentation from November 29, 2021 to Januar
 
 See [the analysis of this survey](2021-docs-survey.html).
 
+Note, the full data from the survey are not provided here because the survey
+stated that all responses would remain private.
+
 ## [2022 SymPy Docs Theme Survey](2022-theme-survey.html)
 
 SymPy ran a user survey about its documentation theme from February
