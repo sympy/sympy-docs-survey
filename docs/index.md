@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# SymPy Documentation Surveys
 
-You can use the [editor on GitHub](https://github.com/sympy/sympy-docs-survey/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+SymPy ran two surveys relating to documentation in 2021-2022.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## [2021 SymPy Documentation Survey](2021-docs-survey.html)
 
-### Markdown
+SymPy ran a user survey about its documentation from November 29, 2021 to January 5, 2022. The primary purpose of the survey was to guide the SymPy Documentation work of Aaron Meurer as part of the [CZI EOSS cycle 4 grant](https://groups.google.com/g/sympy/c/vYsavewGj1w/m/CQKTSznPAgAJ).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+See [the analysis of this survey](2021-docs-survey.html).
 
-```markdown
-Syntax highlighted code block
+## [2022 SymPy Docs Theme Survey](2021-theme-survey.html)
 
-# Header 1
-## Header 2
-### Header 3
+SymPy ran a user survey about its documentation theme from February
+5-19, 2022. The primary purpose of the survey was to guide the selection of a
+Sphinx theme for the [SymPy documentation site](https://docs.sympy.org).
 
-- Bulleted
-- List
+See [the analysis of this survey](2022-theme-survey.html).
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sympy/sympy-docs-survey/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+There is also a [version of the analysis notebook with
+code](2022-theme-survey-with-code.html).
