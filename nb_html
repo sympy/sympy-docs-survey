@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# jupyter nbconvert Analysis.ipynb --no-input --to html
+jupyter nbconvert Analysis.ipynb --to html --output Analysis-with-code.html
+mv Analysis-with-code.html doc
+
+jupyter nbconvert Analysis.ipynb --no-input --to html --output Analysis.html
+mv Analysis.html doc
